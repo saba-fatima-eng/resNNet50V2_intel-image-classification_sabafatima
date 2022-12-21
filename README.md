@@ -5,7 +5,7 @@ You can run this model easily on google colab with GPU.
 
 Little abput project:
 
-This project aims to showcase the implementation and performance of the ResNet50v2 model on the Intel Image Classification dataset. The ResNet50v2 model is a convolutional neural network (CNN) designed for image classification tasks. It is a variant of the original ResNet50V2 model with some modifications to the architecture that improve its accuracy and efficiency.
+This project aims to showcase the implementation and performance of the ResNet50v2 model on the Intel Image Classification dataset. The ResNet50v2 model is a convolutional neural network (CNN) designed for image classification tasks. It is a variant of the original ResNet50V2 model with some modifications to the architecture that improve its accuracy and efficiency i.e. the accuracy on training data improved from 0.8663 to 0.9199 and 0.8903 to 0.8997 for test data.
 
 The Intel Image Classification dataset consists of images belonging to 6 classes, including mountains, sea, and buildings. The dataset is widely used for benchmarking image classification models and has a balanced distribution of images across the classes.
 
